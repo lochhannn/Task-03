@@ -1,0 +1,38 @@
+body
+{
+   background-color: rgba(54, 234, 234, 0.705);
+
+}
+.mainscreen
+{
+   margin-top:50px;
+   margin-left: 600px;
+   font-size: 40px;
+   color:rgb(220, 81, 81); 
+   font-weight: bold;
+   
+
+    
+
+}
+h1
+{
+   color: black;
+   margin-top:20px;
+   margin-left: 600px;
+
+}
+.card
+{
+   border-radius: 3px;
+
+}
+.row
+{
+   color: rgb(235, 24, 24);
+   font-weight: bold;
+}
+#history
+{
+   margin-left: 0px;
+}
